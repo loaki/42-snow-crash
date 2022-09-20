@@ -1,0 +1,5 @@
+find / -name passwd 2> /dev/null
+grep -rnw /etc -e flag01 2> /dev/null
+42hDRfypTqqnw
+echo 42hDRfypTqqnw > level01.txt && john level01.txt --show
+abcdefg
