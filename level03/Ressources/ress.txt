@@ -1,7 +1,7 @@
 ltrace level03
 mkdir /tmp/level03
-touch /tmp/echo
-vim /tmp/echo
+touch /tmp/level03/echo
+vim /tmp/level03/echo
 
 #!/bin/sh
 getflag
