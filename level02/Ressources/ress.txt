@@ -1,0 +1,4 @@
+scp -P 4242 level02@localhost:/home/user/level02/level02.pcap .\Desktop\
+wireshark
+7f = delete
+ft_waNDReL0L

