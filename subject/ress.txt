@@ -1,10 +1,13 @@
 # ssh
 VirtualBox settings : Network -> adapter 1 -> advanced -> port fowarding
 new rule
+
 Protocol    Host IP     Host Port   Guest IP    Guest Port
 TCP         127.0.0.1   4242        10.0.2.15   4242
+
 ssh [username]@localhost -p 4242
 
 # submit
 su flag[number]
 getflag
+su level[number]
